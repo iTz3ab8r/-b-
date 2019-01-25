@@ -5,7 +5,7 @@ client.on('ready', () => {
 });
 
 
-const adminprefix = "//";
+const adminprefix = "+";
 const devs = ['355690814112006144', 'none'];
  
 
